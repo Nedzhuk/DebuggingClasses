@@ -1,0 +1,15 @@
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\bin\Debug\net6.0\DebuggingClasses.exe
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\bin\Debug\net6.0\DebuggingClasses.deps.json
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\bin\Debug\net6.0\DebuggingClasses.runtimeconfig.json
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\bin\Debug\net6.0\DebuggingClasses.dll
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\bin\Debug\net6.0\DebuggingClasses.pdb
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.csproj.AssemblyReference.cache
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.AssemblyInfoInputs.cache
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.AssemblyInfo.cs
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.dll
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\refint\DebuggingClasses.dll
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.pdb
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\DebuggingClasses.genruntimeconfig.cache
+C:\Users\Nadezhdin\source\repos\DebuggingClasses\DebuggingClasses\obj\Debug\net6.0\ref\DebuggingClasses.dll
